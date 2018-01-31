@@ -2,6 +2,7 @@ baseURL = "http://haisholasur.dk/frisør/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "minimo"
+sidebarRecentLimit = 5
 publishDir = "docs"
 
 [[menu.main]]
