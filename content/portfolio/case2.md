@@ -1,7 +1,6 @@
 ---
 title: "inspiration"
 date: 2018-01-31T19:34:37+01:00
-draft: true
 ---
 
 Detter er et link til nogle inspiration for kunder 

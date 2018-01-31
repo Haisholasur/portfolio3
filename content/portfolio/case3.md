@@ -1,7 +1,6 @@
 ---
 title: "Daglige ting"
 date: 2018-01-31T19:34:52+01:00
-draft: true
 ---
 
 Dette er en liste over mine daglige opgaver
